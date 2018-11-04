@@ -1,0 +1,5 @@
+hand
+apple
+chicken
+tree
+free
